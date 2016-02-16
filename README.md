@@ -9,7 +9,8 @@
 ##### 安装
 
 	npm install nodejs_test
-
-
-
-[1]: "nodejs"
+##### 运行
+	hehe
+##### 运行结果
+	Hello World
+	
