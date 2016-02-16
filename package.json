@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_test",
+  "version": "0.2.4",
+  "description": "nodejs test with ver0.2.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlienCao/nodejs_test.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "bin": {
+    "hehe": "index.js"
+  },
+  "author": "sylar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlienCao/nodejs_test/issues"
+  },
+  "homepage": "https://github.com/AlienCao/nodejs_test#readme"
+}
