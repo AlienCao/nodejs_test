@@ -58,6 +58,11 @@ Sub Macro3()
 End Sub
 
 Sub Macro4()
+'
+' Macro4 Macro
+'
+' Keyboard Shortcut: Ctrl+l
+'
   Dim tshape As Shape
     
     With ActiveSheet.Range("D14:E20")
